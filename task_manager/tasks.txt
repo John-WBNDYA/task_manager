@@ -1,0 +1,4 @@
+john, Assign initial tasks, New users only, 10 May 2019, 12 May 2024, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 October 2019, 12 June 2024, No
+admin, admin work, Delete old users, 11 May 2024, 15 May 2024, No
+sam, File management, Remove files older than 2019, 14 May 2024, 18 May 2024, No
